@@ -1,0 +1,25 @@
+{
+    "usuarios": [
+        {
+            "ID": "1234",
+            "Nombres": "Carlos Andres",
+            "Apellidos": "Lopez",
+            "Direccion": "Bucaramanga",
+            "Telefono": "3204496489"
+        },
+        {
+            "ID": "1234",
+            "Nombres": "Juan",
+            "Apellidos": "Gomez",
+            "Direccion": "florida",
+            "Telefono": "123"
+        },
+        {
+            "ID": "7777",
+            "Nombres": "Pepo",
+            "Apellidos": "Perez",
+            "Direccion": "florida",
+            "Telefono": "88"
+        }
+    ]
+}
